@@ -1,7 +1,7 @@
 *DigiShops - A simple Javascript Shopping Cart*
 
 *Description*
-  This ia a Basic shopping cart application where foodstuffs are sold built with Javascript. It allows users to browse through a list of products, add them to cart with specific quantities,and display the cart with total prices
+  This is a Basic shopping cart application where foodstuffs are sold built with Javascript. It allows users to browse through a list of products, add them to cart with specific quantities,and display the cart with total prices
 
 *Features*
   1. Product list display with ID, name, and price
